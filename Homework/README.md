@@ -19,12 +19,12 @@
 
 #### Незавершенный задачи первого семинара
 
-- [Задача 7](https://github.com/.../sem07.py)
-- [Задача 8](https://github.com/.../sem08.py)
-- [Задача 9](https://github.com/.../sem09.py)
+- [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task007.py)
+- [Задача 8](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task008.py)
+- [Задача 9](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task009.py)
 
-#### ДЗ 1
+№### ДЗ 1
 
-- [Задача 1](https://github.com/.../task01.py)
-- [Задача 2](https://github.com/...task02.py)
-- [Задача 3](https://github.com/...task03.py)
+- [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ1/DZ1_01.py)
+- [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ1/DZ1_02.py)
+- [Задача 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ1/DZ1_03.py)
