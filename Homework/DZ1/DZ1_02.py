@@ -15,7 +15,6 @@ def simple_and_compound(num):
         print("Число не является ни простым, ни составным.")
     # construction
     else:
-
         is_prime = any(num % i == 0 for i in range(2, int(num**0.5)+1))
         # final check
         if is_prime:
