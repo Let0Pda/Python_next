@@ -9,8 +9,8 @@
 # *********
 rows = int(input("Сколько рядов у ёлки?: "))
 for i in range(1, rows+1):
-    for j in range(rows-i):
+    for _ in range(rows-i):
         print(" ", end="")
-    for k in range(1, i*2):
+    for _ in range(1, i*2):
         print("*", end="")
     print()
