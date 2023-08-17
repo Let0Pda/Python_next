@@ -11,19 +11,18 @@ a = float(input("Введите длинну стороны a: "))
 b = float(input("Введите длинну стороны b: "))
 c = float(input("Введите длинну стороны c: "))
 
-
 # Check if the sides form a triangle
+
+
 def tringle_check():
     if a + b <= c or a + c <= b or b + c <= a:
         print("Это не треугольник!")
+    elif a == b == c:
+        print("Равносторонний треугольник")
+    elif a == b or a == c or b == c:
+        print("Равнобедренный треугольник")
     else:
-        # Classify the triangle
-        if a == b and b == c:
-            print("Равносторонний треугольник")
-        elif a == b or a == c or b == c:
-            print("Равнобедренный треугольник")
-        else:
-            print("Разносторонний треугольник")
+        print("Разносторонний треугольник")
 
 
 tringle_check()

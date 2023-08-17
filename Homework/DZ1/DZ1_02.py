@@ -15,16 +15,13 @@ def simple_and_compound(num):
         print("Число не является ни простым, ни составным.")
     # construction
     else:
-        is_prime = True
-        for i in range(2, int(num**0.5)+1):
-            if num % i == 0:
-                is_prime = False
-                break
+
+        is_prime = any(num % i == 0 for i in range(2, int(num**0.5)+1))
         # final check
         if is_prime:
-            print("Число является простым.")
-        else:
             print("Число является составным.")
+        else:
+            print("Число является простым.")
 # start func
 
 
