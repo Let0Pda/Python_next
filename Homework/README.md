@@ -1,6 +1,6 @@
 # Домашние задания
 
-## [Домашнее задание № 1https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ1/README.md
+## [Домашнее задание № 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ1/README.md) 
 
 ###
 
