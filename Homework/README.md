@@ -2,7 +2,7 @@
 
 ## [Домашнее задание № 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ1/README.md)
 
-### Незавершенный задачи первого семинара
+### Незавершенные задачи первого семинара
 
 - [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task007.py)
 - [Задача 8](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task008.py)
@@ -16,9 +16,9 @@
 
 ## [Домашнее задание № 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ2/README.md)
 
-### Незавершенный задачи втогого семинара
+### Незавершенные задачи втогого семинара
 
-- [Задача 6](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar2/task006.py)
+- [Задача 6](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar2/task06.py)
 
 ### ДЗ 2
 

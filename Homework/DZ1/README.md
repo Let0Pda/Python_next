@@ -15,7 +15,7 @@
         from random import randint
         num = randint(LOWER_LIMIT, UPPER_LIMIT)
 
-### Незавершенный задачи первого семинара
+### Незавершенные задачи первого семинара
 
 - [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task007.py)
 - [Задача 8](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar1/task008.py)
