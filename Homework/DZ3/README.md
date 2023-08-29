@@ -13,12 +13,12 @@
 
 ### Незавершенные задачи втогого семинара
 
-- [Задача 6]()
-- [Задача 7]()
-- [Задача 7]()
+- [Задача 6](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar3/task06.py)
+- [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar3/task07.py)
+- [Задача 8](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar3/task08.py)
 
 ### ДЗ 2
 
-- [Задача 1]()
-- [Задача 2]()
-- [Задача 3]()
+- [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_01.py)
+- [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_02.py)
+- [Задача 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_03.py)
