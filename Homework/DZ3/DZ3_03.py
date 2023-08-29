@@ -41,7 +41,8 @@ def stuffing():
 
     }
 
-    max_weight = int(input("Введите максимальную грузоподъемность рюкзака: "))
+    max_weight = float(
+        input("Введите максимальную грузоподъемность рюкзака: "))
 
     selected_combinations = backpack(list(items.items()), max_weight)
     selected_combinations = selected_combinations[1:]
