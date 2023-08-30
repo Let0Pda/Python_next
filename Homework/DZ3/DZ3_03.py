@@ -59,6 +59,7 @@ def stuffing():
         input("Введите максимальную грузоподъемность рюкзака: "))
 
     selected_combinations = backpack(list(items.items()), max_weight)
+    # Избавляемся от первого пустого вывода
     selected_combinations = selected_combinations[1:]
 
     if not selected_combinations:
@@ -70,5 +71,5 @@ def stuffing():
             print(f"{i}. {combination} (Вес рюкзака: {total_weight})")
 
 
-# Запускаем основную часть программы
+# Запускаем программу
 stuffing()
