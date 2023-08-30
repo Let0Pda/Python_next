@@ -39,8 +39,11 @@ def main() -> None:
             friend for friend, friend_items in friends_items.items() if item
             in friend_items]
         if len(friends_with_item) == len(friends_items) - 1:
-            missing_friend = next(friend for friend in friends_items.keys() if
-                                  friend not in friends_with_item)
+            missing_friend = next(
+                friend
+                for friend in friends_items
+                if friend not in friends_with_item
+            )
             print(f"'{item.title()}' есть у всех, кроме {missing_friend}")
 
 

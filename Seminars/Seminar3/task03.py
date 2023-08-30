@@ -4,6 +4,7 @@
 данного типа.
 '''
 
+
 # my_tuple = (1, 'apple', 3.14, 'banan', 42, 2.71, 'mama', True)
 
 # result = {}
@@ -29,7 +30,7 @@ my_dict = {}
 # print(my_dict)
 
 for i in a_tuple:
-    if type(i) in my_dict.keys():
+    if type(i) in my_dict:
         my_dict[type(i)].append(i)
     else:
         my_dict[type(i)] = [i]
