@@ -22,7 +22,7 @@ def get_most_common_words(text, num_words=10):
     return word_counts.most_common(num_words)
 
 
-# Пример URL (замените на нужный вам)
+# Пример URL 
 sample_url = "https://ru.wikipedia.org/wiki/GeekBrains"
 
 # Получение текста со страницы по указанной ссылке
