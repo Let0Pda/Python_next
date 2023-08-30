@@ -52,7 +52,9 @@ def stuffing():
         'Топор': 2,
         'Фонарь': 0.5,
         'Компас': 0.2,
-        'Посуда': 0.6
+        'Посуда': 0.6,
+        "Смартфон": 0.5,
+        "Карта": 0.1
     }
 
     max_weight = float(
@@ -68,7 +70,7 @@ def stuffing():
         print("Возможные варианты комплектации рюкзака:")
         for i, combination in enumerate(selected_combinations, start=1):
             total_weight = sum(items[item] for item in combination)
-            print(f"{i}. {combination} (Вес рюкзака: {total_weight})")
+            print(f"{i}.{combination} (Вес рюкзака: {round(total_weight, 2)})")
 
 
 # Запускаем программу
