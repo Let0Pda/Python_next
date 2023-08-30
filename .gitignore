@@ -163,3 +163,5 @@ cython_debug/
 settings.json
 temp
 %GitTest%Python_next
+test.py
+.gitignore
