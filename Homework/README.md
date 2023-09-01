@@ -25,7 +25,7 @@
 - [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ2/DZ2_01.py)
 - [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ2/DZ2_02.py)
 
-## [Домашнее задание № 3](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ3)
+## [Домашнее задание № 3](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ3/README.md)
 
 ### Незавершенные задачи третьего семинара
 
