@@ -17,7 +17,7 @@
 - [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar3/task07.py)
 - [Задача 8](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar3/task08.py)
 
-### ДЗ 2
+### ДЗ 3
 
 - [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_01.py)
 - [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_02.py)
