@@ -13,6 +13,6 @@
 
 ### ДЗ 4
 
-- [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_01.py)
-- [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_02.py)
-- [Задача 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_03.py)
+- [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_1.py)
+- [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_2.py)
+- [Задача 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_3.py)

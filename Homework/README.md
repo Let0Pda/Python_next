@@ -38,3 +38,11 @@
 - [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_01.py)
 - [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_02.py)
 - [Задача 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ3/DZ3_03.py)
+
+## [Домашнее задание № 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/README.md)
+
+### ДЗ 4
+
+- [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_1.py)
+- [Задача 2](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_2.py)
+- [Задача 3](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_3.py)
