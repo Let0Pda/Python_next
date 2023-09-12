@@ -43,6 +43,9 @@
 
 ### Незавершенные задачи четвертого семинара
 
+- [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar4/task07.py)
+- [Задача 8](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar4/task08.py)
+
 ### ДЗ 4
 
 - [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/DZ4_1.py)
