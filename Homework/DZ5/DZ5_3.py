@@ -3,14 +3,14 @@
 '''
 
 
-def factorial(n):
-    number = 1
-    for i in range(1, n + 1):
-        number *= i
-        yield number
+def fibonacci_generator():
+    a, b = 1, 1
+    while True:
+        yield a
+        a, b = b, a + b
 
 
-for i, num in enumerate(factorial(10), start=1):
-    print(f'{i}! = {num}')
-
-# print(*factorial(10), sep='\n')
+n = 10
+fib_gen = fibonacci_generator()
+for _ in range(n):
+    print(next(fib_gen), end=' ')
