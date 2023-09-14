@@ -22,7 +22,7 @@ print()
 # Через условие выхода из цикла 'while'
 
 
-def fibonacci_gen(limit):
+def fibonacci_gena(limit):
     a, b = 1, 1
     count = 0
     while count < limit:
@@ -31,6 +31,6 @@ def fibonacci_gen(limit):
         count += 1
 
 
-fib_gena = fibonacci_gen(n)
+fib_gena = fibonacci_gena(n)
 for number in fib_gena:
     print(number, end=' ')
