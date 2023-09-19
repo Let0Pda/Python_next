@@ -1,7 +1,6 @@
-# DZ6_2.py
-
-
 import random
+
+# DZ6_2.py
 
 
 def queens_safe(queens):
