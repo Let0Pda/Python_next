@@ -9,3 +9,5 @@
 ## [Домашнее задание № 4](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ4/README.md)
 
 ## [Домашнее задание № 5](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ5/README.md)
+
+## [Домашнее задание № 6](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ6/README.md)
