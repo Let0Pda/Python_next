@@ -31,14 +31,15 @@ def random_queens():
 
 
 successful = []
-
+count = 1
 while len(successful) < 4:
     queens = random_queens()
+    count += 1
     if queens_safe(queens):
         successful.append(queens)
-        print(f"Успешная расстановка {len(successful)}: {queens}")
+        print(f"{count} Успешная расстановка {len(successful)}: {queens}")
     else:
-        print("Неуспешная расстановка")
+        print(f" {count} Неуспешная расстановка")
 
 print("Генерация завершена. 4 успешных расстановки найдены.")
 print("Все успешные расстановки:")
