@@ -24,7 +24,7 @@
 - [Задача 6](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar7/task06.py)
 - [Задача 7](https://github.com/Let0Pda/Python_next/blob/main/Seminars/Seminar7/task07.py)
 
-### ДЗ 6
+### ДЗ 7
 
 - [Задача 1](https://github.com/Let0Pda/Python_next/blob/main/Homework/DZ7/DZ7_1.py)
 - [Задача 2. - Пакет "package_files" 7 модулей](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ7/package_files)
