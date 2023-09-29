@@ -33,7 +33,7 @@ def func_sum(file1, file2, res):
 
 
 if __name__ == "__main__":
-    file1 = r"./Seminars/Seminar7/task01.txt"
-    file2 = r"./Seminars/Seminar7/task02.txt"
-    res = r"./Seminars/Seminar7/task03.txt"
+    file1 = r"./Seminars/Seminar7/task01/task01.txt"
+    file2 = r"./Seminars/Seminar7/task02/task02.txt"
+    res = r"./Seminars/Seminar7/task03/task03.txt"
     func_sum(file1, file2, res)

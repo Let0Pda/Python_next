@@ -25,4 +25,4 @@ def func_name(num, new_file):
 
 
 if __name__ == "__main__":
-    func_name(10, r"./Seminars/Seminar7/task02.txt")
+    func_name(10, r"./Seminars/Seminar7/task02/task02.txt")
