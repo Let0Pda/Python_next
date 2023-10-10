@@ -29,7 +29,7 @@ def func_sum(file1, file2, res):
         for i in range(max_len):
             a = eval(digit[i].replace("|", "*"))
             b = name[i].replace("\n", "")
-            res.write(f"{b} - {a}\n")
+            res.write(f"{b} = {a}\n")
 
 
 if __name__ == "__main__":

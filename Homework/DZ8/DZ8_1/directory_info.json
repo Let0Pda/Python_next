@@ -1,0 +1,667 @@
+[
+    {
+        "path": "./Homework/DZ1",
+        "type": "directory",
+        "size": 6116
+    },
+    {
+        "path": "./Homework/DZ2",
+        "type": "directory",
+        "size": 4324
+    },
+    {
+        "path": "./Homework/DZ3",
+        "type": "directory",
+        "size": 7241
+    },
+    {
+        "path": "./Homework/DZ4",
+        "type": "directory",
+        "size": 7767
+    },
+    {
+        "path": "./Homework/DZ5",
+        "type": "directory",
+        "size": 3784
+    },
+    {
+        "path": "./Homework/DZ6",
+        "type": "directory",
+        "size": 8625
+    },
+    {
+        "path": "./Homework/DZ7",
+        "type": "directory",
+        "size": 210965
+    },
+    {
+        "path": "./Homework/DZ8",
+        "type": "directory",
+        "size": 32697
+    },
+    {
+        "path": "./Homework/README.md",
+        "type": "file",
+        "size": 858
+    },
+    {
+        "path": "./Homework/DZ1\\DZ1_01.py",
+        "type": "file",
+        "size": 1508
+    },
+    {
+        "path": "./Homework/DZ1\\DZ1_02.py",
+        "type": "file",
+        "size": 1210
+    },
+    {
+        "path": "./Homework/DZ1\\DZ1_03.py",
+        "type": "file",
+        "size": 840
+    },
+    {
+        "path": "./Homework/DZ1\\README.md",
+        "type": "file",
+        "size": 2558
+    },
+    {
+        "path": "./Homework/DZ2\\DZ2_01.py",
+        "type": "file",
+        "size": 1159
+    },
+    {
+        "path": "./Homework/DZ2\\DZ2_02.py",
+        "type": "file",
+        "size": 1956
+    },
+    {
+        "path": "./Homework/DZ2\\README.md",
+        "type": "file",
+        "size": 1209
+    },
+    {
+        "path": "./Homework/DZ3\\DZ3_01.py",
+        "type": "file",
+        "size": 693
+    },
+    {
+        "path": "./Homework/DZ3\\DZ3_02.py",
+        "type": "file",
+        "size": 1468
+    },
+    {
+        "path": "./Homework/DZ3\\DZ3_03.py",
+        "type": "file",
+        "size": 3109
+    },
+    {
+        "path": "./Homework/DZ3\\README.md",
+        "type": "file",
+        "size": 1971
+    },
+    {
+        "path": "./Homework/DZ4\\DZ4_1.py",
+        "type": "file",
+        "size": 611
+    },
+    {
+        "path": "./Homework/DZ4\\DZ4_2.py",
+        "type": "file",
+        "size": 1585
+    },
+    {
+        "path": "./Homework/DZ4\\DZ4_3.py",
+        "type": "file",
+        "size": 4045
+    },
+    {
+        "path": "./Homework/DZ4\\README.md",
+        "type": "file",
+        "size": 1526
+    },
+    {
+        "path": "./Homework/DZ5\\DZ5_1.py",
+        "type": "file",
+        "size": 604
+    },
+    {
+        "path": "./Homework/DZ5\\DZ5_2.py",
+        "type": "file",
+        "size": 844
+    },
+    {
+        "path": "./Homework/DZ5\\DZ5_3.py",
+        "type": "file",
+        "size": 739
+    },
+    {
+        "path": "./Homework/DZ5\\README.md",
+        "type": "file",
+        "size": 1597
+    },
+    {
+        "path": "./Homework/DZ6\\DZ6_1.py",
+        "type": "file",
+        "size": 1280
+    },
+    {
+        "path": "./Homework/DZ6\\DZ6_2.py",
+        "type": "file",
+        "size": 3246
+    },
+    {
+        "path": "./Homework/DZ6\\DZ6_3.py",
+        "type": "file",
+        "size": 1622
+    },
+    {
+        "path": "./Homework/DZ6\\README.md",
+        "type": "file",
+        "size": 2477
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1",
+        "type": "directory",
+        "size": 191096
+    },
+    {
+        "path": "./Homework/DZ7\\package_files",
+        "type": "directory",
+        "size": 13726
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1.py",
+        "type": "file",
+        "size": 3904
+    },
+    {
+        "path": "./Homework/DZ7\\README.md",
+        "type": "file",
+        "size": 2239
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\087L_new_name_047.jpg",
+        "type": "file",
+        "size": 4042
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\087L_new_name_048.jpg",
+        "type": "file",
+        "size": 4042
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\4NZO_new_name_037.jpg",
+        "type": "file",
+        "size": 3313
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\4NZO_new_name_038.jpg",
+        "type": "file",
+        "size": 3313
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\5xn2_new_name_035.jpg",
+        "type": "file",
+        "size": 956
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\5xn2_new_name_036.jpg",
+        "type": "file",
+        "size": 956
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\6EBD_new_name_073.jpg",
+        "type": "file",
+        "size": 1899
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\6EBD_new_name_074.jpg",
+        "type": "file",
+        "size": 1899
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\6eM9_new_name_031.jpg",
+        "type": "file",
+        "size": 3371
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\6eM9_new_name_032.jpg",
+        "type": "file",
+        "size": 3371
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\7KUL_new_name_039.jpg",
+        "type": "file",
+        "size": 977
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\7KUL_new_name_040.jpg",
+        "type": "file",
+        "size": 977
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\9YPs_new_name_001.jpg",
+        "type": "file",
+        "size": 1444
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\9YPs_new_name_002.jpg",
+        "type": "file",
+        "size": 1444
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\AlVk_new_name_017.jpg",
+        "type": "file",
+        "size": 2725
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\AlVk_new_name_018.jpg",
+        "type": "file",
+        "size": 2725
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\AWfg_new_name_083.jpg",
+        "type": "file",
+        "size": 2895
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\AWfg_new_name_084.jpg",
+        "type": "file",
+        "size": 2895
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\BMkl_new_name_079.jpg",
+        "type": "file",
+        "size": 779
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\BMkl_new_name_080.jpg",
+        "type": "file",
+        "size": 779
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\bsZk_new_name_061.jpg",
+        "type": "file",
+        "size": 2444
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\bsZk_new_name_062.jpg",
+        "type": "file",
+        "size": 2444
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\cBtO_new_name_021.jpg",
+        "type": "file",
+        "size": 2612
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\cBtO_new_name_022.jpg",
+        "type": "file",
+        "size": 2612
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\ceQ5_new_name_043.jpg",
+        "type": "file",
+        "size": 277
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\ceQ5_new_name_044.jpg",
+        "type": "file",
+        "size": 277
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\DRjT_new_name_045.jpg",
+        "type": "file",
+        "size": 2074
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\DRjT_new_name_046.jpg",
+        "type": "file",
+        "size": 2074
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\e1jq_new_name_025.jpg",
+        "type": "file",
+        "size": 1118
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\e1jq_new_name_026.jpg",
+        "type": "file",
+        "size": 1118
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\gvtw_new_name_053.jpg",
+        "type": "file",
+        "size": 1636
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\gvtw_new_name_054.jpg",
+        "type": "file",
+        "size": 1636
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\GwWh_new_name_057.jpg",
+        "type": "file",
+        "size": 1874
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\GwWh_new_name_058.jpg",
+        "type": "file",
+        "size": 1874
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\i7zR_new_name_055.jpg",
+        "type": "file",
+        "size": 796
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\i7zR_new_name_056.jpg",
+        "type": "file",
+        "size": 796
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\igKA_new_name_081.jpg",
+        "type": "file",
+        "size": 3207
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\igKA_new_name_082.jpg",
+        "type": "file",
+        "size": 3207
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\iqq9_new_name_029.jpg",
+        "type": "file",
+        "size": 3670
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\iqq9_new_name_030.jpg",
+        "type": "file",
+        "size": 3670
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\IWrO_new_name_069.jpg",
+        "type": "file",
+        "size": 2457
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\IWrO_new_name_070.jpg",
+        "type": "file",
+        "size": 2457
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\jyJt_new_name_023.jpg",
+        "type": "file",
+        "size": 2481
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\jyJt_new_name_024.jpg",
+        "type": "file",
+        "size": 2481
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\L6E9_new_name_065.jpg",
+        "type": "file",
+        "size": 3079
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\L6E9_new_name_066.jpg",
+        "type": "file",
+        "size": 3079
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\LBiL_new_name_077.jpg",
+        "type": "file",
+        "size": 2289
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\LBiL_new_name_078.jpg",
+        "type": "file",
+        "size": 2289
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\LL4w_new_name_051.jpg",
+        "type": "file",
+        "size": 1279
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\LL4w_new_name_052.jpg",
+        "type": "file",
+        "size": 1279
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\lUtr_new_name_059.jpg",
+        "type": "file",
+        "size": 3233
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\lUtr_new_name_060.jpg",
+        "type": "file",
+        "size": 3233
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\m2kr_new_name_011.jpg",
+        "type": "file",
+        "size": 2080
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\m2kr_new_name_012.jpg",
+        "type": "file",
+        "size": 2080
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\ogHQ_new_name_009.jpg",
+        "type": "file",
+        "size": 1907
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\ogHQ_new_name_010.jpg",
+        "type": "file",
+        "size": 1907
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\pysk_new_name_033.jpg",
+        "type": "file",
+        "size": 3006
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\pysk_new_name_034.jpg",
+        "type": "file",
+        "size": 3006
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\QeEl_new_name_027.jpg",
+        "type": "file",
+        "size": 1003
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\QeEl_new_name_028.jpg",
+        "type": "file",
+        "size": 1003
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\Sawp_new_name_019.jpg",
+        "type": "file",
+        "size": 3794
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\Sawp_new_name_020.jpg",
+        "type": "file",
+        "size": 3794
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\sh5S_new_name_007.jpg",
+        "type": "file",
+        "size": 4093
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\sh5S_new_name_008.jpg",
+        "type": "file",
+        "size": 4093
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\sP3a_new_name_003.jpg",
+        "type": "file",
+        "size": 2263
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\sP3a_new_name_004.jpg",
+        "type": "file",
+        "size": 2263
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\t0rG_new_name_015.jpg",
+        "type": "file",
+        "size": 1969
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\t0rG_new_name_016.jpg",
+        "type": "file",
+        "size": 1969
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\TBYD_new_name_067.jpg",
+        "type": "file",
+        "size": 1447
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\TBYD_new_name_068.jpg",
+        "type": "file",
+        "size": 1447
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\W757_new_name_013.jpg",
+        "type": "file",
+        "size": 3271
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\W757_new_name_014.jpg",
+        "type": "file",
+        "size": 3271
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\w9tR_new_name_005.jpg",
+        "type": "file",
+        "size": 1765
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\w9tR_new_name_006.jpg",
+        "type": "file",
+        "size": 1765
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\x1FX_new_name_075.jpg",
+        "type": "file",
+        "size": 2994
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\x1FX_new_name_076.jpg",
+        "type": "file",
+        "size": 2994
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\xuHq_new_name_063.jpg",
+        "type": "file",
+        "size": 2262
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\xuHq_new_name_064.jpg",
+        "type": "file",
+        "size": 2262
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\y9aA_new_name_041.jpg",
+        "type": "file",
+        "size": 1069
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\y9aA_new_name_042.jpg",
+        "type": "file",
+        "size": 1069
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\yAME_new_name_049.jpg",
+        "type": "file",
+        "size": 3687
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\yAME_new_name_050.jpg",
+        "type": "file",
+        "size": 3687
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\Zou6_new_name_071.jpg",
+        "type": "file",
+        "size": 2011
+    },
+    {
+        "path": "./Homework/DZ7\\DZ7_1\\Zou6_new_name_072.jpg",
+        "type": "file",
+        "size": 2011
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\adding_to_end.py",
+        "type": "file",
+        "size": 952
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\creating_files.py",
+        "type": "file",
+        "size": 2275
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\different_files.py",
+        "type": "file",
+        "size": 1249
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\generating_pseudonym.py",
+        "type": "file",
+        "size": 934
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\multiplication_numbers.py",
+        "type": "file",
+        "size": 2058
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\rename_files.py",
+        "type": "file",
+        "size": 3924
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\sorting files.py",
+        "type": "file",
+        "size": 2334
+    },
+    {
+        "path": "./Homework/DZ7\\package_files\\__init__.py",
+        "type": "file",
+        "size": 0
+    },
+    {
+        "path": "./Homework/DZ8\\DZ8_1",
+        "type": "directory",
+        "size": 29890
+    },
+    {
+        "path": "./Homework/DZ8\\DZ8_1.py",
+        "type": "file",
+        "size": 2807
+    },
+    {
+        "path": "./Homework/DZ8\\DZ8_1\\directory_info.csv",
+        "type": "file",
+        "size": 6485
+    },
+    {
+        "path": "./Homework/DZ8\\DZ8_1\\directory_info.json",
+        "type": "file",
+        "size": 16134
+    },
+    {
+        "path": "./Homework/DZ8\\DZ8_1\\directory_info.pkl",
+        "type": "file",
+        "size": 7271
+    }
+]
