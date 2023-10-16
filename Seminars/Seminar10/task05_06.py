@@ -19,7 +19,7 @@ class Animal:
         self.weight = weight
 
     def my_ptint(self):
-        return f"Имя: {self.name} Возраст: {self.age} Вес: {self.weight}"
+        return f"Имя: {self.name}, Возраст: {self.age}, Вес: {self.weight}.кг"
 
 
 class Cat(Animal):
@@ -42,6 +42,6 @@ class Birth(Animal):
 
 if __name__ == "__main__":
     cat1 = Cat("Tima", 2, 11, "maine coon")
-    birth1 = Birth("Gosha", 4, 3, 1)
+    birth1 = Birth("Gosha", 4, 3, 0.5)
     print(cat1.my_ptint())
     print(birth1.my_ptint())
