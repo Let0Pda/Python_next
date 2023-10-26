@@ -15,3 +15,9 @@
 ## [Домашнее задание № 7](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ7)
 
 ## [Домашнее задание № 8](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ8)
+
+## [Домашнее задание № 9](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ9)
+
+## [Домашнее задание № 10](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ10)
+
+## [Домашнее задание № 11](https://github.com/Let0Pda/Python_next/tree/main/Homework/DZ11)
