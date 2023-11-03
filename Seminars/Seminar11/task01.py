@@ -6,16 +6,13 @@ import time
 
 
 class Mystr(str):
+    """Class Mystr"""
+
     def __new__(cls, value, name):
         instance = super().__new__(cls, value)
         instance.name = name
         instance.time = time.time()
         return instance
-
-    # def __init__(self) -> None:
-    #     super().__init__(value)
-    #     self.name = name
-    #     self.time = time.time
 
 
 sss = Mystr("Привет мир", "Vasya")
@@ -23,3 +20,4 @@ print(sss)
 print(sss.name)
 print(sss.time)
 print(sss.upper())
+help(sss)

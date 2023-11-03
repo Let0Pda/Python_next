@@ -6,6 +6,8 @@
 
 
 class Arche:
+    """Class Arhive"""
+
     number = []
     my_str = []
 
@@ -21,3 +23,4 @@ arh2 = Arche(20, "23568")
 arh3 = Arche(30, "строка2")
 
 print(arh3.number, arh3.my_str)
+help(arh1)
