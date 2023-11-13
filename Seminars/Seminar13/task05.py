@@ -17,19 +17,50 @@ class User:
         self.user_id = user_id
 
     def __repr__(self) -> str:
-        return f"\nUser {self.name} {self.level} {self.user_id}"
+        return f"\nUser: {self.name} {self.level} {self.user_id}"
+
+    def __eq__(self, other):
+        return self.name == other.name and self.user_id == other.user_id
+
+    def __hash__(self) -> int:
+        return hash((self.name, self.user_id))
 
 
-def my_json(res):
-    with open(res, "r", encoding="utf=8") as f:
-        my_dict = json.load(f)
-    user_set = set()
-    for level, value in my_dict.items():
-        for user_id, user_name in value.items():
-            new_user = User(user_name, level, user_id)
-            user_set.add(new_user)
-    return user_set
+class ProjectUser:
+    def __init__(self, res) -> None:
+        self.users = set()
+        self.res = res
+        self.user = None
+
+    def my_json(self):
+        with open(self.res, "r", encoding="utf=8") as f:
+            my_dict = json.load(f)
+
+        for level, value in my_dict.items():
+            for user_id, user_name in value.items():
+                new_user = User(user_name, level, user_id)
+                self.users.add(new_user)
+        return self.users
+
+    def login_2_sys(self, user_name, user_id):
+        local_user = User(user_name, None, user_id)
+        if local_user not in self.users:
+            raise AccessException
+        for user_items in self.users:
+            if user_items == local_user:
+                self.user = user_items
+
+    def add_user(self, user_name, level, user_id):
+        if self.user is not None and self.user.level < level:
+            self.users.add(User(user_name, level, user_id))
+        else:
+            raise LevelException
 
 
 res = "./Seminars/Seminar13/task04/task04.json"
-print(my_json(res))
+user_set1 = ProjectUser(res)
+user_set1.my_json()
+user_set1.login_2_sys("Bob", "21")
+user_set1.add_user("Pittte", "2", 10)
+print(user_set1.user)
+print(user_set1.users)
