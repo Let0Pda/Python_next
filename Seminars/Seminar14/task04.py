@@ -9,24 +9,21 @@
 import pytest
 
 
-def test_no_chenge():
-    assert func_clear_text("hello world") == "hello world"
+class TestMy:
+    def test_no_chenge(self):
+        assert func_clear_text("hello world") == "hello world"
 
+    def test_lower(self):
+        assert func_clear_text("Hello world") == "hello world"
 
-def test_lower():
-    assert func_clear_text("Hello world") == "hello world"
+    def test_punctuation(self):
+        assert func_clear_text("Hello world,") == "hello world"
 
+    def test_other_alphabets(self):
+        assert func_clear_text("Hello worldПривет,") == "hello world"
 
-def test_punctuation():
-    assert func_clear_text("Hello world,") == "hello world"
-
-
-def test_other_alphabets():
-    assert func_clear_text("Hello worldПривет,") == "hello world"
-
-
-def test_all_above_points():
-    assert func_clear_text("Hello, world_Привет,") == "hello world"
+    def test_all_above_points(self):
+        assert func_clear_text("Hello, world_Привет,") == "hello world"
 
 
 def func_clear_text(text: str) -> str:
@@ -37,4 +34,4 @@ def func_clear_text(text: str) -> str:
 
 
 if __name__ == "__main__":
-    pytest.main()
+    pytest.main([f"{__file__}::{TestMy.__name__}"])
