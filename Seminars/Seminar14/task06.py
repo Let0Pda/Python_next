@@ -69,36 +69,32 @@ class ProjectUser:
 
 
 # Тесты
-class TestMy:
-    @pytest.fixture
-    def data(self):
-        user1 = User("John", "10", 1)
-        user2 = User("John", "10", 1)
-        return user1, user2
 
-    def test_eg(self, data):
-        user1, user2 = data
-        assert user1 == user2
 
-    @pytest.fixture
-    def data_project(self):
-        project = ProjectUser(res)
-        project.my_json()
-        return project
+@pytest.fixture
+def data():
+    user1 = User("John", "10", 1)
+    user2 = User("John", "10", 1)
+    return user1, user2
 
-    def test_author(self, data_project):
-        user1 = User("Bob", 1, "21")
-        data_project.login_2_sys("Bob", "21")
-        assert data_project.user == user1
+
+def test_eg(data):
+    user1, user2 = data
+    assert user1 == user2
+
+
+@pytest.fixture
+def data_project():
+    project = ProjectUser(res)
+    project.my_json()
+    return project
+
+
+def test_author(data_project):
+    user1 = User("Bob", 1, "21")
+    data_project.login_2_sys("Bob", "21")
+    assert data_project.user == user1
 
 
 if __name__ == "__main__":
-    pytest.main([f"{__file__}::{TestMy.__name__}"])
-
-
-# res = "./Seminars/Seminar13/task04/task04.json"
-# user_set1 = ProjectUser(res)
-# user_set1.my_json()
-# user_set1.login_2_sys("Bob", "21")
-# user_set1.add_user("Pittte", "2", 10)
-# print(user_set1.user)
+    pytest.main([f"{__file__}", "-v"])
