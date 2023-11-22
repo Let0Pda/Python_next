@@ -132,14 +132,14 @@ class Matrix:
         return result
 
 
-# Создаем матрицы
-matrix1 = Matrix(2, 3)
-matrix1.data = [[1, 2, 3], [4, 5, 6]]
+if __name__ == "__main__":
+    # Создаем матрицы
+    matrix1 = Matrix(2, 3)
+    matrix1.data = [[1, 2, 3], [4, 5, 6]]
 
-matrix2 = Matrix(2, 3)
-matrix2.data = [[7, 8, 9], [10, 11, 12]]
+    matrix2 = Matrix(2, 3)
+    matrix2.data = [[7, 8, 9], [10, 11, 12]]
 
-# Выводим матрицы
-print(matrix1)
-
-print(matrix2)
+    # Выводим матрицы
+    print(matrix1)
+    print(matrix2)
