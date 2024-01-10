@@ -34,6 +34,6 @@ def date_func(date_text):
 
 if __name__ == "__main__":
     my_text = "4-й четверг ноября"
-    result = date_func(my_text)
-    if result:
+    # result = date_func(my_text)
+    if result := date_func(my_text):
         print(f"Вычесленная дата текущего года: {result}")
